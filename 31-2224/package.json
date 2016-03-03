@@ -1,0 +1,16 @@
+{
+  "name": "app.js",
+  "version": "0.0.1",
+  "author": "joehewitt <joe@joehewitt.com>",
+  "scripts": {
+    "start": "node app.js"
+    
+
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
